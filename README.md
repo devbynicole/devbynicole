@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nicole 👩‍💻
 
-<!--
-**devbynicole/devbynicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻Estudante de Desenvolvimento de Sistemas  
 
-Here are some ideas to get you started:
+Atualmente estudando e desenvolvendo projetos nas áreas de:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mobile
+- Back-end
+- Front-end
+- Banco de Dados
+- Inteligência Artificial
+
+## Sobre mim
+Tenho interesse em tecnologia, programação e desenvolvimento de software, buscando evoluir constantemente através de projetos e novos aprendizados.
+
+## Tecnologias
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+## Objetivo
+Construir projetos cada vez mais completos e crescer profissionalmente na área da tecnologia.
