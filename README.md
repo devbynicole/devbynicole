@@ -1,4 +1,4 @@
-# Nicole 👩‍💻
+# Nicole
 
 👩‍💻Estudante de Desenvolvimento de Sistemas  
 
